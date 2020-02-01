@@ -1,6 +1,6 @@
 ---
 name: Peter Ferguson
 title:  Doctoral Student, UCLA
-image: https://via.placeholder.com/400
+image: /img/organizers/ferguson_peter.jpg
 link: http://website.com
 ---

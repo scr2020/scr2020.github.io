@@ -1,6 +1,6 @@
 ---
 name: Yayun (Daisy) Du
 title:  Doctoral Student, UCLA
-image: https://via.placeholder.com/400
+image: /img/organizers/du_yayun.jpg
 link: http://website.com
 ---
