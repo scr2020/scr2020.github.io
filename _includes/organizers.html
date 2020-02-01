@@ -14,7 +14,7 @@
             {% assign organizers_sorted = site.organizers | sort:"order_number" %}            
             {% for organizers in organizers_sorted %}
             <a href="{{organizers.link}}">
-              <div class="col m5ths">
+              <div class="col m5ths sm">
                 <div class="card hoverable">
                   <div class="card-image">
                     <img class="activator portrait-img" src="{{organizers.image}}">
@@ -37,7 +37,7 @@
             {% assign advisors_sorted = site.advisors | sort:"order_number" %}            
             {% for advisor in advisors_sorted %}
             <a href="{{advisor.link}}">
-              <div class="col m5ths">
+              <div class="col m5ths sm">
                 <div class="card hoverable">
                   <div class="card-image">
                     <img class="activator portrait-img" src="{{advisor.image}}">
