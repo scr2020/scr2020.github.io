@@ -11,10 +11,10 @@ infoline_text: "Thanks for attending SCR 2020, see you again next year!"
 
 # Color settings
 color:
-  primary-dark: '#3D1419'
+  primary-dark: '#005587' # UCLA Darker Blue
   title: '#ebf0f4'
-  links: '#219ab3'
-  accent: '#B89E8F'
+  links: '#8BB8E8' # UCLA Lighter Blue
+  accent: ' #FFC72C' # UCLA Darker Gold
 
 # conference data
 background-image: img/afa2_desert_iso.png
