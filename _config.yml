@@ -7,7 +7,7 @@ baseurl: ''
 conference_title: "Southern California Robotics Symposium"
 conference_title_short: "SCR"
 year: "2020"
-#infoline_text: "Thanks for attending SCR 2020, see you again next year!"
+infoline_text: "Thanks for attending SCR 2020, see you again next year!"
 
 # Color settings
 color:
