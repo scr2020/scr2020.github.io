@@ -1,6 +1,6 @@
 ---
 name: Ankur Mehta
-title:  Professor, UCLA
+title:  Assistant Professor, UCLA, ECE
 image: /img/advisors/mehta_ankur.jpg
 link: https://uclalemur.com
 ---
