@@ -11,10 +11,10 @@ infoline_text: "Thanks for attending SCR 2020, see you again next year!"
 
 # Color settings
 color:
-  primary-dark: '#005587' # UCLA Darker Blue
+  primary-dark: '#2774AE' # UCLA Primary Blue
   title: '#ebf0f4'
   links: '#8BB8E8' # UCLA Lighter Blue
-  accent: ' #FFC72C' # UCLA Darker Gold
+  accent: '#FFD100' # UCLA Primary Gold
 
 # conference data
 background-image: img/royce_hall.jpg
