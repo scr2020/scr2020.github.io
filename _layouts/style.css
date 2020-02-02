@@ -48,7 +48,7 @@
 
 #main-title{
   padding:10px;
-  font-size: 0.75vw;
+  font-size: 14px;
   overflow-wrap: break-word;
   word-wrap: break-word;
   hyphens: auto;
@@ -64,7 +64,7 @@
 
 #secondary-title-text{
   color:#ffffff;
-  font-size: 0.5vw;
+  font-size: 12px;
   overflow-wrap: break-word;
   word-wrap: break-word;
   hyphens: auto;
