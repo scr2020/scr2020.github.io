@@ -44,6 +44,9 @@
   text-align: center;
 }
 
+.nav-wrapper > ul {
+  margin-left: 150px;
+}
 
 
 #main-title{
