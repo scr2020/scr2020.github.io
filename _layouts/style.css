@@ -48,7 +48,7 @@
 
 #main-title{
   padding:10px;
-  font-size: 1.5vmin;
+  font-size: 0.75vw;
   font-weight: bold;
   color: black;
   background-color: {{site.color.accent}};
@@ -61,7 +61,7 @@
 
 #secondary-title-text{
   color:#ffffff;
-  font-size: 1vmin;
+  font-size: 0.5vw;
   line-height: normal;
 }
 
