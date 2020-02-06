@@ -1,11 +1,16 @@
 .navbar-fixed {
   position: absolute;
   z-index:999999999;
+  overflow: hidden;
 }
 
 .nav {
   box-shadow:none;
   background-color: {{site.color.primary-dark}};
+}
+
+.nav-wrapper > ul {
+  margin-left: 350px;
 }
 
 .banner{
@@ -44,9 +49,6 @@
   text-align: center;
 }
 
-.nav-wrapper > ul {
-  margin-left: 150px;
-}
 
 
 #main-title{
