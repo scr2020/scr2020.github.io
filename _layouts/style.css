@@ -21,7 +21,7 @@
   background-image: url({{site.background-image}});
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center center;
+  background-position: center 80%;
   width: 100%;
   /*position: relative;*/
   top: 0;
@@ -80,12 +80,14 @@
   text-align:center;
   font-weight:bold;
   color:{{site.color.title}};
+  text-shadow: 5px 5px 5px #000000; /* FF3.5+, Opera 9+, Saf1+, Chrome, IE10 */
 }
 
 .banner-subheading{
   text-align:center;
   font-weight:bold;
   color: {{site.color.title}};
+  text-shadow: 5px 5px 5px #000000; /* FF3.5+, Opera 9+, Saf1+, Chrome, IE10 */
 }
 
 .sponsor-row{
