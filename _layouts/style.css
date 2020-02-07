@@ -70,6 +70,13 @@
 #secondary-title-text{
   color:#ffffff;
   font-size: 12px;
+
+  display:inline-block;
+  width:100%;
+  white-space: nowrap;
+  overflow:hidden !important;
+  text-overflow: ellipsis;
+
   overflow-wrap: break-word;
   word-wrap: break-word;
   hyphens: auto;
