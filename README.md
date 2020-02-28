@@ -1,20 +1,19 @@
-Jekyll static conference site
-=========================
+# SoCal Robotics 2020 Website Source Code
 
-Static website for academic conferences designed for easy maintenance, previously used for [SCR 2019](http://scr2019.caltech.edu).
+## Instructions
+With ruby and bundle installed, run:
 
-# Documentation
-
-With jekyll installed,  run
 ```
-jekyll serve --livereload
+bundle install
 ```
-for development and  build the final site with
-```
-jekyll build
-``` 
 
-Refer to [jekyllrb.com](https://jekyllrb.com/) for further documentation, including how to install Jekyll.
+to install the dependencies of the website from the Gemfile.lock file.
+
+To see a live version during development, run:
+
+```
+bundle exec jekyll serve --livereload
+```
 
 ## Site-wide settings
 
@@ -31,5 +30,3 @@ The layout file is specified in ```index.html```.
 Invited speakers, accepted contributions, organizers, advisors, and schedule items (sessions) are controlled by placing markdown files in the corresponding folder (```_advisors```, ```_invited_speakers```, ```_organizers```, ```_papers``` and ```_sessions```). Refer to the examples for the format of these files.
 
 For configuring the remaining content (sponsors, text changes, etc), manually edit the files in ```_includes```.
-
-
