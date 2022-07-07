@@ -1,6 +1,6 @@
 ---
 name: Alexis Block, Dr. sc.
-title:  Postdoctoral Researcher, UCLA, MAE
+title:  Postdoctoral Fellow, UCLA, MAE
 image: /img/organizers/block_alexis.JPG
-link:
+link: http://hi.is.mpg.de/person/alexis
 ---
